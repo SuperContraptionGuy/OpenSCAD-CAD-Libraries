@@ -1,0 +1,10 @@
+Part Name		Material			Amount
+
+Long Table		Particalboard/Laminate		x2
+Short Table		Particalboard/Laminate		x2
+Table Connector		Plywood				x2
+Support Top		Plywood				x4
+Support Back		Plywood				x4
+Support Triangle	Plywood				x4
+2x4 Long		2x4				x2
+2x4 Short		2x4				x2
